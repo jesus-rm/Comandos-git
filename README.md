@@ -7,7 +7,7 @@ _A list of commonly used Git and Terminal commands_
 
 --
 
-### Terminal Commands / Comandos de la Terminal
+### Terminal commands / Comandos de la Terminal
 
 | Command | Description | Descripción |
 | ------- | ----------- | ------------ |
